@@ -54,7 +54,7 @@ class Main extends PluginBase implements Listener
         }
         
         public function OnLoad() {
-                $this->getServer()->getLogger()->info("[§eGood§bGame] §eEklenti Yükleniyor!");
+                $this->getServer()->getLogger()->info("[§eGood§bGame] §eEklenti Yükleniyor...");
         }
         
         public function OnDisable() {
@@ -99,7 +99,7 @@ class Main extends PluginBase implements Listener
             if($event->getItem()->getId() == 347){
                 $player->sendPopup("§aHuba Geri Dönülüyor...");
                 $spawn = $this->getServer()->getDefaultLevel()->getSafeSpawn();
-                $player->teleport($spawn);//and now work TELEPORT :)
+                $player->teleport($spawn);//ve Işınlanma şimdi çalışıyor :)
                 $x=$player->x;
                 $y=$player->y;
                 $z=$player->z;
