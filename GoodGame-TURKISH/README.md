@@ -1,11 +1,11 @@
 #    GOODGAME (GG)
 
-Bu Plugin müthiş sesler, parçacıklar ve eventsler !!! PocketMine-MP İçin
+Bu Plugin müthiş sesler, parçacıklar ve eventler !!! PocketMine-MP İçin
 
 Eklenti yapımcısı :EmreTr1
 
 --------------------------------------------------------------------
-# YENİ SÜRÜM 1.4 YAYINLANDI!!! ŞÜMDÜ EVENTLER ÇALIŞIYOR!!!
+# YENİ SÜRÜM 1.4 YAYINLANDI!!! ŞİMDİ EVENTLER ÇALIŞIYOR!!!
 
 Değişenler:
 
