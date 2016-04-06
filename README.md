@@ -7,5 +7,6 @@ more bug fix soon!
 
 # Language?
 
-PmTurkiyeDevelopers bu pluginin aynısın turkce versionunu yaparsanız sevinirim :) 
-ben kendi githubum için İngilizce yapmıştım o yuzden :D
+- Turkish
+- English
+- new Languages soon...
